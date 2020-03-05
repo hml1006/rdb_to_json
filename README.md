@@ -3,7 +3,7 @@ This script comes from python rdbtools cli command, because rdbtools JSONCallbac
 would't convert utf8 chars printable, so this script rewrite JSONCallback.
 Otherwise, this script has the same command line parameters with rdbtools cli.
 
-## Install dependence library
+## Install dependences
 ``` bash
 pip install rdbtools python-lzf
 ```
